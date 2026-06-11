@@ -112,7 +112,8 @@ flutter pub get
 flutter run
 
 
-**Future Improvements**
+
+## Future Improvements
 
 -Backend integration (Firebase Firestore)
 
