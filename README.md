@@ -13,6 +13,7 @@
 
 # Project structure
 
+```txt
 alu_connect_plus/
 │
 ├── lib/
@@ -51,8 +52,8 @@ alu_connect_plus/
 │   │   │   └── create_post_screen.dart     
 │   │   │
 │   │   ├── chat/
-│   │   │   ├── chat_list_screen.dart        
-│   │   │   └── chat_screen.dart             
+│   │   │   ├── chat_list_screen.dart       
+│   │   │   └── chat_screen.dart            
 │   │   │
 │   │   └── profile/
 │   │       ├── profile_screen.dart
@@ -60,10 +61,10 @@ alu_connect_plus/
 │   │       ├── my_rsvps_screen.dart
 │   │       └── settings_screen.dart
 │   │
-│   └
-│
 ├── pubspec.yaml
+│
 └── README.md
+```
 
  ## What does it do? (Features)
 
