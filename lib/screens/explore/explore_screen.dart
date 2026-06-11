@@ -24,7 +24,6 @@ class _ExploreScreenState extends State<ExploreScreen> {
 
   @override
   Widget build(BuildContext context) {
-
     final filteredCommunities = mockCommunities;
 
     return Scaffold(

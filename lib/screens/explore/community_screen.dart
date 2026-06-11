@@ -20,9 +20,7 @@ class CommunityScreen extends StatelessWidget {
             Navigator.push(
               context,
               MaterialPageRoute(
-                builder: (_) => CommunityDetailsScreen(
-                  community: community,
-                ),
+                builder: (_) => CommunityDetailsScreen(community: community),
               ),
             );
           },
