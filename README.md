@@ -69,12 +69,17 @@ alu_connect_plus/
 
 | Module | Features | Built By |
 |--------|----------|----------|
+
 |  **Home** | Welcome greeting, search bar, categories (Events/Opportunities/Communities/Internships), featured news, latest opportunities, event detail with RSVP/save | | **Francoise Jeanne Beulla Rugero** |
+
 
 |  **Explore** | Create a new search page , search & filter out chips, add & remove chips from a community card with dynamic Join/Joined buttons. | **NSHUTI Jabes Ruranga** |
 
+
 |  **Create** | Publication of a full form validation, a dropdown of categories (Event/Opportunity/Community Announcement), a date picker, a SnackBar feedback, and auto-clear form. | **Karekezi Lionel** |
+
 |  **Chat** | Participants in a chat can see when messages were sent or received, and the group chat bubbles are distinguished by a yellow color when the person sends a message, and a grey color when the person receives a message | **Karekezi Lionel** |
+
 
 |  **Profile** |  User image, campus, stats (Events Joined/Communities/Connections), saved items, RSVP management, settings | **Merci Nzabinesha** |
 
@@ -114,6 +119,12 @@ flutter run
 Member	Role	Contributions
 
 NSHUTI Jabes Ruranga	Project Lead	Project foundation, AppColors, dark theme, bottom navigation, routing, Explore screen, Communities
+
+
 Francoise Jeanne Beulla Rugero	Developer	Home screen, Opportunities, Event details, RSVP button, save button
+
+
 Karekezi Lionel	Developer	Create Post screen (validation, dropdown, date picker), Chat system (chat list + chat screen)
+
+
 Merci Nzabinesha	Developer	Profile screen, Saved items, My RSVPs, Settings screen
