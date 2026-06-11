@@ -112,6 +112,23 @@ flutter pub get
 flutter run
 
 
+**Future Improvements**
+
+-Backend integration (Firebase Firestore)
+
+-Real-time chat with push notifications
+
+-User authentication and personalized profiles
+
+-Edit and delete posts
+
+-Image uploads for events and communities
+
+-RSVP calendar sync
+
+-In-app notification system
+
+
 
 
 ## Who made it? (Team)
